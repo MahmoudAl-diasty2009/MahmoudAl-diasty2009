@@ -26,7 +26,7 @@ All my projects are available here on GitHub 📂
 
 ## 📫 Let's Connect
 You can reach me or follow my learning journey:
-- [LinkedIn]([[https://linkedin.com](https://www.linkedin.com/in/mahmoud-al-diasty-4655b8324/)](https://www.linkedin.com/in/mahmoud-al-diasty-4655b8324/)) <!-- Replace with your link -->
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-al-diasty-4655b8324/) <!-- Replace with your link -->
 - [GitHub](https://github.com/your-username)
 
 ---
